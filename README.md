@@ -25,7 +25,7 @@ To install necessary dependencies, run the following command: npm i
 
 ## Usage
 
-See video of app below: </br>
+See image of app below: </br>
 ![Website image](./assets/images/textEditor.PNG)
 
 ## Contributing
