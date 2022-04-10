@@ -28,6 +28,8 @@ To install necessary dependencies, run the following command: npm i
 See image of app below: </br>
 ![Website image](./assets/images/textEditor.PNG)
 
+Visit site at [link](https://fast-refuge-59524.herokuapp.com/)
+
 ## Contributing
 
 If you would like to contribute please email me at the address below
